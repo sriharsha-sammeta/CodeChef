@@ -1,0 +1,24 @@
+﻿Build started 7/19/2015 12:23:39 AM.
+     1>Project "c:\Users\srihars\documents\visual studio 2013\Projects\CC_MCHEF_SOL\CC_MCHEF_SOL\CC_MCHEF_SOL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(43): error C2057: expected constant expression
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(43): error C2466: cannot allocate an array of constant size 0
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(43): error C2133: 'left' : unknown size
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(44): error C2057: expected constant expression
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(44): error C2466: cannot allocate an array of constant size 0
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(44): error C2133: 'right' : unknown size
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\srihars\documents\visual studio 2013\projects\cc_mchef_sol\cc_mchef_sol\source.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+     1>Done Building Project "c:\Users\srihars\documents\visual studio 2013\Projects\CC_MCHEF_SOL\CC_MCHEF_SOL\CC_MCHEF_SOL.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.75
